@@ -1,6 +1,6 @@
 # PSDotNet
-Practical Example of Using Photoshop DotNet Wrapper Class
-
+<br><B>Practical Example of Using Photoshop DotNet Wrapper Class</B></br>
+<br>http://psdotnet.com</br>
 
 <B>PsDotNet Diagram</B>
 <br>
@@ -14,5 +14,5 @@ While PsDotNet surfaces everything that the COM library exposes, there may be fu
 
 <br><B>PsDotNet Listener</B></br>
 <br>
-It’s simple, neat and straight forward to get tasks done efficiently in Photoshop from third-party host applications. For game editor such as Unity with C# and Javascript supported as native scripting languages, all kinds of Photoshop tasks can be carried on right within Unity with PsDotNet library. There are a lot of potentials what can be done with it.
+It’s simple and straight forward to get tasks done efficiently in Photoshop from third-party host applications. For game editor such as Unity with C# and Javascript supported as native scripting languages, all kinds of Photoshop tasks can be carried out right within Unity with PsDotNet library. There are a lot of potentials what can be done with it.
 </br>
